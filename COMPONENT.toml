@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-system-locale"
-description = "SigmaOS subsystem component for system-locale"
+description = "Locale & language selector"
 version = "0.1.0"
 tier = 0
 
